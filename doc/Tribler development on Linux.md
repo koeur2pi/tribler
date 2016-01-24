@@ -9,7 +9,7 @@ This page contains information about setting up a Tribler development environmen
 sudo apt-get install libav-tools libjs-excanvas libjs-mootools libsodium13 libx11-6 python-apsw python-cherrypy3 python-crypto python-cryptography python-feedparser python-leveldb python-libtorrent python-m2crypto python-netifaces python-pil python-pyasn1 python-requests python-twisted python-wxgtk2.8 python2.7 vlc python-pip
 pip install decorator
 ```
-##### **Installing libsodium13 and python-cryptography on Ubuntu 14.04**
+##### **Installing libsodium13 and python-cryptography on Ubuntu 14.04 'Trusty Tahr'**
 
 While installing libsodium13 and python-cryptography on a clean Ubuntu 14.04 install (possibly other versions as well), the situation can occur where the Ubuntu terminal throws the following error when trying to install the dependencies mentioned earlier in the README.md:
 
